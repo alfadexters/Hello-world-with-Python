@@ -40,7 +40,7 @@ Upon running the application, you should see the following output in the console
 This repository can also be deployed on any Platform-as-a-Service (PaaS) provider that supports Docker, such as Heroku, DigitalOcean, Railway, Vercel, or Laravel Cloud. Follow the deployment instructions specific to your chosen platform for Docker-based applications.
 ## Dockerfile Structure
 The Dockerfile uses a Python 3.8 base image. Steps include:
-1. Copying helloPython.py to the container.
+1. Copying program1.py to the container.
 2. Running the application with python.
 ## Author
 Richard Macas
